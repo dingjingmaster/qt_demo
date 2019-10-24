@@ -1,0 +1,9 @@
+build-*/
+build*/
+*.o
+*.a
+*.so
+*.pro.user
+
+
+
